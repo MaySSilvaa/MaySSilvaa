@@ -1,5 +1,3 @@
-## Maylany Silva
-
 Olá, pode me chamar de Maylany! 👋
 ✨ Futura Analista de Cibersegurança | Apaixonada por Lógica, Python e Defesa Digital ✨
 <p align="center">
@@ -11,9 +9,9 @@ Olá, pode me chamar de Maylany! 👋
 </a>
 </p>
 
-Sou piauiense e estudante de Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia começou com a linguagem C no IFPI, onde descobri minha paixão por resolver quebra-cabeças lógicos. Hoje, canalizo essa paixão para um novo objetivo: a Cibersegurança.
+Sou piauiense e estudante de Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia começou no ensino médio, no IFPI, onde tive meu primeiro contato com lógica de programação e banco de dados. Essa base despertou minha paixão por resolver quebra-cabeças, que hoje aprofundo na faculdade com a linguagem C e canalizo para meu grande objetivo: a Cibersegurança.
 
-Acredito que entender como as coisas funcionam por dentro é o primeiro passo para protegê-las. Por isso, estou mergulhando no universo da segurança da informação, usando minha base em programação e meu pensamento crítico para aprender a defender sistemas e dados. Minha missão é transformar a curiosidade em conhecimento para construir um ambiente digital mais seguro.
+Acredito que entender como as coisas funcionam por dentro é o primeiro passo para protegê-las. Por isso, estou mergulhando no universo da segurança da informação, usando meu pensamento crítico para aprender a defender sistemas e dados. Minha missão é transformar a curiosidade em conhecimento para construir um ambiente digital mais seguro.
 
 🚀 Minha Jornada em Segurança
 🎓 Recentemente concluí o curso de Defesa de Rede da Cisco Networking Academy, que me deu uma base sólida e só aumentou meu interesse pela área!
@@ -26,7 +24,7 @@ Acredito que entender como as coisas funcionam por dentro é o primeiro passo pa
 
 📫 Você pode me encontrar no LinkedIn. Vamos nos conectar e trocar conhecimentos sobre segurança! <!-- INSTRUÇÃO: Não esquece de trocar 'seu-perfil-aqui' pelo seu link do LinkedIn! -->
 
-⚡ Curiosidade: Meu amor por jogos de estratégia me ajuda a pensar como um atacante para, então, construir as melhores defesas!
+⚡ Curiosidade: Fã de animes e do universo de Harry Potter! Acredito que, para se defender no mundo digital, é preciso conhecer os 'feitiços' certos, quase como em Hogwarts.
 
 🛠️ Linguagens e Ferramentas (Em estudo e em prática)
 <p align="center">
