@@ -1,28 +1,17 @@
+## Maylany dos Santos Silva
+
 Olá, pode me chamar de Maylany! 👋
 ✨ Futura Analista de Cibersegurança | Apaixonada por Lógica, Python e Defesa Digital ✨
-<p align="center">
-<a href="https://github.com/MaySSilvaa?tab=followers">
-<img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MaySSilvaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-</a>
-<a href="https://github.com/MaySSilvaa?tab=repositories&sort=stargazers">
-<img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MaySSilvaa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-</a>
-</p>
-
-Sou piauiense e estudante de Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia começou no ensino médio, no IFPI, onde tive meu primeiro contato com lógica de programação e banco de dados. Essa base despertou minha paixão por resolver quebra-cabeças, que hoje aprofundo na faculdade com a linguagem C e canalizo para meu grande objetivo: a Cibersegurança.
+Sou piauiense e estudante de Análise e Desenvolvimento de Sistemas no IFPI - Campus Parnaíba. Minha jornada na tecnologia começou no ensino médio, onde cursei o primeiro ano técnico no IFPI e tive meu primeiro contato com lógica de programação e banco de dados. Essa base despertou minha paixão por resolver quebra-cabeças, que hoje aprofundo na graduação com a linguagem C e canalizo para meu grande objetivo: a Cibersegurança.
 
 Acredito que entender como as coisas funcionam por dentro é o primeiro passo para protegê-las. Por isso, estou mergulhando no universo da segurança da informação, usando meu pensamento crítico para aprender a defender sistemas e dados. Minha missão é transformar a curiosidade em conhecimento para construir um ambiente digital mais seguro.
 
 🚀 Minha Jornada em Segurança
-🎓 Recentemente concluí o curso de Defesa de Rede da Cisco Networking Academy, que me deu uma base sólida e só aumentou meu interesse pela área!
-
-🌱 Agora, estou aprofundando meus conhecimentos em sistemas operacionais (Linux) e iniciando os estudos em segurança ofensiva (pentest) para entender o lado do atacante.
+🌱 Atualmente, estou aprofundando meus conhecimentos em sistemas operacionais (Linux) e iniciando os estudos em segurança ofensiva (pentest) para entender o lado do atacante.
 
 🐍 Utilizando Python como minha principal ferramenta para criar futuros scripts de automação e análise de segurança.
 
 🎯 Meu objetivo é construir uma carreira sólida em cibersegurança, com foco em Blue Team (defesa), uma área que tive o prazer de conhecer no curso da Cisco.
-
-📫 Você pode me encontrar no LinkedIn. Vamos nos conectar e trocar conhecimentos sobre segurança! <!-- INSTRUÇÃO: Não esquece de trocar 'seu-perfil-aqui' pelo seu link do LinkedIn! -->
 
 ⚡ Curiosidade: Fã de animes e do universo de Harry Potter! Acredito que, para se defender no mundo digital, é preciso conhecer os 'feitiços' certos, quase como em Hogwarts.
 
@@ -33,8 +22,15 @@ Acredito que entender como as coisas funcionam por dentro é o primeiro passo pa
 </a>
 </p>
 
-📊 Minhas Estatísticas no GitHub
+🎓 Formação e Certificações
+Análise e Desenvolvimento de Sistemas - IFPI Campus Parnaíba (Cursando)
+
+Defesa de Rede - Cisco Networking Academy (Concluído)
+
+Fundamentos de TI (1º Ano Ensino Médio) - IFPI
+
+📞 Contato
 <p align="center">
-<img height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MaySSilvaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaySSilvaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<a href="mailto:maylanysilva8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/seu-perfil-aqui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
